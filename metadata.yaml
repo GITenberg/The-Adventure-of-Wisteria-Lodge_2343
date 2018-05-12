@@ -1,5 +1,8 @@
 _repo: The-Adventure-of-Wisteria-Lodge_2343
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -18,6 +21,8 @@ description: "\"The Adventure of Wisteria Lodge\" is one of the fifty-six Sherlo
   \ of \"The Singular Experience of Mr. John Scott Eccles\" and \"The Tiger of San\
   \ Pedro\", which on original publication in The Strand bore the collective title\
   \ of \"A Reminiscence of Mr. Sherlock Holmes\".\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2343#The-Adventure-of-Wisteria-Lodge
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2000-10-01'
 gutenberg_type: Text
